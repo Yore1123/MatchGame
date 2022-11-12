@@ -50,7 +50,7 @@ namespace MatchGame
         {
             List<string> animalEmoji = new List<string>()
             {
-                "🐒","🐒",
+                "❤️","❤️",
                 "🐕","🐕",
                 "🐈","🐈",
                 "‍🦏","‍🦏",
